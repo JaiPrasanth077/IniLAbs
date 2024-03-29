@@ -46,3 +46,4 @@ Access the application in your web browser at http://localhost:5000.
 - Flask: Utilizes the Flask micro-framework for handling HTTP requests, routing, and rendering HTML templates.
 - MySQL: Integrates with MySQL database for storing and managing registration data.
 
+if you have any questions or encounter any problems, please let me know. Thanks!
